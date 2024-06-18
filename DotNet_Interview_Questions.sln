@@ -25,6 +25,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Polymorphism", "5 - Pol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "OOPS_Concepts\5 - Polymorphism\Polymorphism\Polymorphism.csproj", "{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Method Overloading and Overriding", "6 - Method Overloading and Overriding", "{C43D4423-826E-4055-98B7-E27F7F0D7B5E}"
+	ProjectSection(SolutionItems) = preProject
+		MethodOverloadingAndOverriding.cs = MethodOverloadingAndOverriding.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,6 +71,7 @@ Global
 		{9A145CD3-D98F-443A-A2A7-745585918F2D} = {C8C3D702-5449-4B26-B134-44913D6A7517}
 		{20268C8A-A06A-492B-950B-AA9B696B2222} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD} = {20268C8A-A06A-492B-950B-AA9B696B2222}
+		{C43D4423-826E-4055-98B7-E27F7F0D7B5E} = {34498557-01F8-4121-913C-EA5A693D56EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
