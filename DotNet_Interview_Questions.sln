@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallByValue", "OOPS_Concept
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallByReference", "OOPS_Concepts\8 - CallByValue VS CallByReference\CallByReference\CallByReference.csproj", "{5CF58CAE-8ECC-4C41-92D3-A45DCF574A56}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 - Virtual Functions", "9 - Virtual Functions", "{F2B5EC0A-28E4-45AA-9771-7536C9547AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual", "OOPS_Concepts\9 - Virtual Functions\Virtual\Virtual.csproj", "{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{5CF58CAE-8ECC-4C41-92D3-A45DCF574A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF58CAE-8ECC-4C41-92D3-A45DCF574A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF58CAE-8ECC-4C41-92D3-A45DCF574A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +111,8 @@ Global
 		{0A05CEED-4380-4D51-97EE-62E13EC14213} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{2D2AF760-A0D7-4418-A7C2-F8EBDF52A825} = {0A05CEED-4380-4D51-97EE-62E13EC14213}
 		{5CF58CAE-8ECC-4C41-92D3-A45DCF574A56} = {0A05CEED-4380-4D51-97EE-62E13EC14213}
+		{F2B5EC0A-28E4-45AA-9771-7536C9547AAB} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2} = {F2B5EC0A-28E4-45AA-9771-7536C9547AAB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
