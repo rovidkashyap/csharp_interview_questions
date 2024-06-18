@@ -26,9 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "OOPS_Concepts\5 - Polymorphism\Polymorphism\Polymorphism.csproj", "{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Method Overloading and Overriding", "6 - Method Overloading and Overriding", "{C43D4423-826E-4055-98B7-E27F7F0D7B5E}"
-	ProjectSection(SolutionItems) = preProject
-		MethodOverloadingAndOverriding.cs = MethodOverloadingAndOverriding.cs
-	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloadingVsOverriding", "OOPS_Concepts\6 - Method Overloading and Overriding\MethodOverloadingVsOverriding\MethodOverloadingVsOverriding.csproj", "{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +55,10 @@ Global
 		{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +75,7 @@ Global
 		{20268C8A-A06A-492B-950B-AA9B696B2222} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD} = {20268C8A-A06A-492B-950B-AA9B696B2222}
 		{C43D4423-826E-4055-98B7-E27F7F0D7B5E} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7} = {C43D4423-826E-4055-98B7-E27F7F0D7B5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
