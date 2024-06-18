@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - OOPS Features", "1 - OO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oops_features", "OOPS_Concepts\1 - OOPS Features\oops_features\oops_features.csproj", "{058B34C7-C397-4D0F-9D7B-209F3085927B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Interface VS Abstraction", "2 - Interface VS Abstraction", "{FF642240-2F5E-456D-B88D-36295D8E8E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceVsAbstraction", "OOPS_Concepts\2 - Interface VS Abstraction\InterfaceVsAbstraction\InterfaceVsAbstraction.csproj", "{2BDA8382-3562-4B80-B64C-C1E968016543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{058B34C7-C397-4D0F-9D7B-209F3085927B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058B34C7-C397-4D0F-9D7B-209F3085927B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058B34C7-C397-4D0F-9D7B-209F3085927B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDA8382-3562-4B80-B64C-C1E968016543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDA8382-3562-4B80-B64C-C1E968016543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDA8382-3562-4B80-B64C-C1E968016543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDA8382-3562-4B80-B64C-C1E968016543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E541EC7F-BD91-47A1-964B-86D190E51411} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{058B34C7-C397-4D0F-9D7B-209F3085927B} = {E541EC7F-BD91-47A1-964B-86D190E51411}
+		{FF642240-2F5E-456D-B88D-36295D8E8E42} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{2BDA8382-3562-4B80-B64C-C1E968016543} = {FF642240-2F5E-456D-B88D-36295D8E8E42}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
