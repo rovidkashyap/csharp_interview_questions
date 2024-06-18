@@ -29,6 +29,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Method Overloading and 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloadingVsOverriding", "OOPS_Concepts\6 - Method Overloading and Overriding\MethodOverloadingVsOverriding\MethodOverloadingVsOverriding.csproj", "{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Constructors", "7 - Constructors", "{AFC038BC-86EC-444F-AFD3-0813E6BC814B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "OOPS_Concepts\7 - Constructors\Constructors\Constructors.csproj", "{490310AA-C523-40DB-BB00-418AA429111F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,10 @@ Global
 		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490310AA-C523-40DB-BB00-418AA429111F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490310AA-C523-40DB-BB00-418AA429111F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490310AA-C523-40DB-BB00-418AA429111F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490310AA-C523-40DB-BB00-418AA429111F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +84,8 @@ Global
 		{88B474F2-6A64-4EFB-BE47-7A159ADFC8FD} = {20268C8A-A06A-492B-950B-AA9B696B2222}
 		{C43D4423-826E-4055-98B7-E27F7F0D7B5E} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{AB6D0F6E-B1D2-4D98-9AF0-FBEC0BACABC7} = {C43D4423-826E-4055-98B7-E27F7F0D7B5E}
+		{AFC038BC-86EC-444F-AFD3-0813E6BC814B} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{490310AA-C523-40DB-BB00-418AA429111F} = {AFC038BC-86EC-444F-AFD3-0813E6BC814B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
