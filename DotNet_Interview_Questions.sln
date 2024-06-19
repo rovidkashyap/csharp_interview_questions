@@ -91,6 +91,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "21 - Func And Action", "21 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func_and_action", "OOPS_Concepts\21 - Func and Action\func_and_action\func_and_action.csproj", "{43F3B896-5E81-4D91-8AF6-0A20BD852D9F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "22 - Anonymous Method", "22 - Anonymous Method", "{CAC86212-6594-4101-8FB2-4ACEBCCFC1B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anonymous_method", "OOPS_Concepts\22 - Anonymous Method\anonymous_method\anonymous_method.csproj", "{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +189,10 @@ Global
 		{43F3B896-5E81-4D91-8AF6-0A20BD852D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F3B896-5E81-4D91-8AF6-0A20BD852D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F3B896-5E81-4D91-8AF6-0A20BD852D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -233,6 +241,8 @@ Global
 		{F966021C-F538-4356-827C-196004A073DF} = {215C2BC7-A506-4B1D-AA80-B9A3996522F9}
 		{A08E7B93-2543-477C-B6B3-6D3D4D12BBBB} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{43F3B896-5E81-4D91-8AF6-0A20BD852D9F} = {A08E7B93-2543-477C-B6B3-6D3D4D12BBBB}
+		{CAC86212-6594-4101-8FB2-4ACEBCCFC1B6} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5} = {CAC86212-6594-4101-8FB2-4ACEBCCFC1B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
