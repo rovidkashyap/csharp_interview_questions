@@ -55,6 +55,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12 - Struct VS Class", "12 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct_and_Class", "OOPS_Concepts\12 - Struct VS Class\Struct_and_Class\Struct_and_Class.csproj", "{CE589C5D-41DB-480A-9266-FD595DF12C3B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13 - Managed Vs Unmanaged", "13 - Managed Vs Unmanaged", "{5C3F63CF-FDD7-4F2E-ACB3-606CBB115BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Managed_and_Unmanaged", "OOPS_Concepts\13 - Managed Vs Unmanaged\Managed_and_Unmanaged\Managed_and_Unmanaged.csproj", "{ABB64108-CB67-490B-897E-B3C3CD88ED52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +117,10 @@ Global
 		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB64108-CB67-490B-897E-B3C3CD88ED52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB64108-CB67-490B-897E-B3C3CD88ED52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB64108-CB67-490B-897E-B3C3CD88ED52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB64108-CB67-490B-897E-B3C3CD88ED52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +151,8 @@ Global
 		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB} = {7CDD54F0-86CE-432E-BB96-3509BF20AABF}
 		{AEFF22EF-A1D1-43C0-882C-29302DD3E705} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{CE589C5D-41DB-480A-9266-FD595DF12C3B} = {AEFF22EF-A1D1-43C0-882C-29302DD3E705}
+		{5C3F63CF-FDD7-4F2E-ACB3-606CBB115BA4} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{ABB64108-CB67-490B-897E-B3C3CD88ED52} = {5C3F63CF-FDD7-4F2E-ACB3-606CBB115BA4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
