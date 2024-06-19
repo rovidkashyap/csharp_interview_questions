@@ -79,6 +79,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18 - Dependency Injection",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Injection", "OOPS_Concepts\18 - Dependency Injection\Dependency_Injection\Dependency_Injection.csproj", "{A26DEDAC-287D-4542-9564-62ED22151371}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19 - Partial Class", "19 - Partial Class", "{0B9EAE60-8347-4B4B-B532-062756352213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial_Classes", "OOPS_Concepts\19 - Partial Class\Partial_Classes\Partial_Classes.csproj", "{0163690E-BBB7-49B9-B7E9-C48ACD043649}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +165,10 @@ Global
 		{A26DEDAC-287D-4542-9564-62ED22151371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A26DEDAC-287D-4542-9564-62ED22151371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A26DEDAC-287D-4542-9564-62ED22151371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0163690E-BBB7-49B9-B7E9-C48ACD043649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0163690E-BBB7-49B9-B7E9-C48ACD043649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0163690E-BBB7-49B9-B7E9-C48ACD043649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0163690E-BBB7-49B9-B7E9-C48ACD043649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -203,6 +211,8 @@ Global
 		{9C69C34E-E072-4B59-B26A-A1B25B949639} = {024ECC8E-77A4-44C9-BA47-28C68A8A4846}
 		{74BB7B73-4288-48FA-B061-B93186DB673A} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{A26DEDAC-287D-4542-9564-62ED22151371} = {74BB7B73-4288-48FA-B061-B93186DB673A}
+		{0B9EAE60-8347-4B4B-B532-062756352213} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{0163690E-BBB7-49B9-B7E9-C48ACD043649} = {0B9EAE60-8347-4B4B-B532-062756352213}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
