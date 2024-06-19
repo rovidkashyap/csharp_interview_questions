@@ -23,10 +23,10 @@ OOPS INTERVIEW QUESTIONS
 20. What is the use of Static Class? <br />
 21. Define Func and Action Usage. <br />
 22. What are anonymous methods? <br />
-23. Difference between Ref and Out Keywords? <br />
+23. What is the Difference between Ref and Out Keywords? <br />
 24. Difference between Araay and ArrayList? <br />
 25. Difference between String and StringBuilder? <br />
-26 . Define Destructors? <br />
+26. Define Destructors? <br />
 27. What is Garbage Collection? <br />
 28. What are the Access Specifiers? <br />
 29. Difference between Abstraction and Encapsulation? <br />
