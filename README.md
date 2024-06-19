@@ -21,3 +21,8 @@ OOPS INTERVIEW QUESTIONS
 18. What is Dependency Injection, Explain it with Example. <br />
 19. What is the use of Partial Class? <br />
 20. What is the use of Static Class? <br />
+21. Define Func and Action Usage? <br />
+22. What are anonymous methods? <br />
+23. Difference between Ref and Out Keyword? <br />
+24. Difference between Araay and ArrayList? <br />
+25. Difference between String and StringBuilder? <br />
