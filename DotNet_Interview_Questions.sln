@@ -67,6 +67,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15 - Internal VS Private", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_and_Private", "OOPS_Concepts\15 - Internal VS Private\Internal_and_Private\Internal_and_Private.csproj", "{3952C2C9-693F-48CC-8DC7-1C4A173B34C4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16 - Delegates", "16 - Delegates", "{9702D332-7E06-4B89-A45B-772A2C8D7E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates", "OOPS_Concepts\16 - Delegates\delegates\delegates.csproj", "{B43A53FE-035D-441B-B04F-AF0A16CBEA53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +141,10 @@ Global
 		{3952C2C9-693F-48CC-8DC7-1C4A173B34C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3952C2C9-693F-48CC-8DC7-1C4A173B34C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3952C2C9-693F-48CC-8DC7-1C4A173B34C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43A53FE-035D-441B-B04F-AF0A16CBEA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43A53FE-035D-441B-B04F-AF0A16CBEA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43A53FE-035D-441B-B04F-AF0A16CBEA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43A53FE-035D-441B-B04F-AF0A16CBEA53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +181,8 @@ Global
 		{87DEC5E7-3271-40EE-A980-D1881FE959FE} = {7DE6CED6-EAA7-4A6A-9EB2-BACDB78BDA49}
 		{4E928B96-712A-4A93-BA7C-31868CE93749} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{3952C2C9-693F-48CC-8DC7-1C4A173B34C4} = {4E928B96-712A-4A93-BA7C-31868CE93749}
+		{9702D332-7E06-4B89-A45B-772A2C8D7E4E} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{B43A53FE-035D-441B-B04F-AF0A16CBEA53} = {9702D332-7E06-4B89-A45B-772A2C8D7E4E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
