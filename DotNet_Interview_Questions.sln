@@ -111,6 +111,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "26 - Destructors", "26 - De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "destructors", "OOPS_Concepts\26 - Destructors\destructors\destructors.csproj", "{F033DCC9-D027-4BB0-9C38-B17DF1439B05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "27 - Garbage Collection", "27 - Garbage Collection", "{8DDFC703-3408-4FCF-BA05-56CE4FE771A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garbage_collection", "OOPS_Concepts\27 - Garbage Collection\garbage_collection\garbage_collection.csproj", "{7CA36392-CF92-4B67-9132-A09A18CB5363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +229,10 @@ Global
 		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -283,6 +291,8 @@ Global
 		{8E0DF1AB-B3FF-49FF-AF7B-C743B7BA162F} = {C6BD7742-0F9D-4207-8DB5-834201F29A31}
 		{B1025308-4DE5-4E20-A4B6-F3F142D01600} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{F033DCC9-D027-4BB0-9C38-B17DF1439B05} = {B1025308-4DE5-4E20-A4B6-F3F142D01600}
+		{8DDFC703-3408-4FCF-BA05-56CE4FE771A7} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{7CA36392-CF92-4B67-9132-A09A18CB5363} = {8DDFC703-3408-4FCF-BA05-56CE4FE771A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
