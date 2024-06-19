@@ -107,6 +107,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "25 - String and StringBuild
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_and_stringbuilder", "OOPS_Concepts\25 - String and StringBuilder\string_and_stringbuilder\string_and_stringbuilder.csproj", "{8E0DF1AB-B3FF-49FF-AF7B-C743B7BA162F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "26 - Destructors", "26 - Destructors", "{B1025308-4DE5-4E20-A4B6-F3F142D01600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "destructors", "OOPS_Concepts\26 - Destructors\destructors\destructors.csproj", "{F033DCC9-D027-4BB0-9C38-B17DF1439B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +221,10 @@ Global
 		{8E0DF1AB-B3FF-49FF-AF7B-C743B7BA162F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0DF1AB-B3FF-49FF-AF7B-C743B7BA162F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0DF1AB-B3FF-49FF-AF7B-C743B7BA162F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F033DCC9-D027-4BB0-9C38-B17DF1439B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -273,6 +281,8 @@ Global
 		{3CC02929-29D4-4963-BFB4-7E3FA690496C} = {837080C1-475A-4699-B729-25A15D760FE6}
 		{C6BD7742-0F9D-4207-8DB5-834201F29A31} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{8E0DF1AB-B3FF-49FF-AF7B-C743B7BA162F} = {C6BD7742-0F9D-4207-8DB5-834201F29A31}
+		{B1025308-4DE5-4E20-A4B6-F3F142D01600} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{F033DCC9-D027-4BB0-9C38-B17DF1439B05} = {B1025308-4DE5-4E20-A4B6-F3F142D01600}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
