@@ -47,6 +47,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 - Exception Handling", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "OOPS_Concepts\10 - Exception Handling\Exception_Handling\Exception_Handling.csproj", "{4A3395DB-C121-4517-B519-985108082495}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11 - Inheritance", "11 - Inheritance", "{7CDD54F0-86CE-432E-BB96-3509BF20AABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "OOPS_Concepts\11 - Inheritance\Inheritance\Inheritance.csproj", "{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +101,10 @@ Global
 		{4A3395DB-C121-4517-B519-985108082495}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A3395DB-C121-4517-B519-985108082495}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A3395DB-C121-4517-B519-985108082495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +131,8 @@ Global
 		{6DC646B1-C726-4E4D-8D6F-D68ABEECE5C2} = {F2B5EC0A-28E4-45AA-9771-7536C9547AAB}
 		{BEC5FDD4-288D-4FD0-880B-10019E0BBC8B} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{4A3395DB-C121-4517-B519-985108082495} = {BEC5FDD4-288D-4FD0-880B-10019E0BBC8B}
+		{7CDD54F0-86CE-432E-BB96-3509BF20AABF} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB} = {7CDD54F0-86CE-432E-BB96-3509BF20AABF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
