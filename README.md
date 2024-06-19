@@ -18,11 +18,21 @@ OOPS INTERVIEW QUESTIONS
 15. What is the difference between Internal and Private? <br />
 16. Explain Delegates and its uses. and its types? <br />
 17. Difference between List and Collections? <br />
-18. What is Dependency Injection, Explain it with Example. <br />
+18. What is Dependency Injection, Explain it with an Example. <br />
 19. What is the use of Partial Class? <br />
 20. What is the use of Static Class? <br />
-21. Define Func and Action Usage? <br />
+21. Define Func and Action Usage. <br />
 22. What are anonymous methods? <br />
-23. Difference between Ref and Out Keyword? <br />
+23. What is the Difference between Ref and Out Keywords? <br />
 24. Difference between Araay and ArrayList? <br />
 25. Difference between String and StringBuilder? <br />
+26. Define Destructors? <br />
+27. What is Garbage Collection? <br />
+28. What are the Access Specifiers? <br />
+29. Difference between Abstraction and Encapsulation? <br />
+30. Explain the types of Classes in C#. <br />
+31. Explain the difference between 'this' and 'base' keywords in C#. <br />
+32. What are Sealed Methods and properties? <br />
+33. What is the use of the 'Yield' keyword in C#? <br />
+34. Is it possible to restrict object creation in C#? <br />
+35. Can you inherit Enum in C#? <br />
