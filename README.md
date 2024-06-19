@@ -24,7 +24,7 @@ OOPS INTERVIEW QUESTIONS
 21. Define Func and Action Usage. <br />
 22. What are anonymous methods? <br />
 23. What is the Difference between Ref and Out Keywords? <br />
-24. Difference between Araay and ArrayList? <br />
+24. Difference between Array and ArrayList? <br />
 25. Difference between String and StringBuilder? <br />
 26. Define Destructors? <br />
 27. What is Garbage Collection? <br />
