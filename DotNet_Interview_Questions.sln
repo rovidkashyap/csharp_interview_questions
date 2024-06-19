@@ -99,6 +99,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "23 - Ref VS Out", "23 - Ref
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_and_out", "OOPS_Concepts\23 - Ref VS Out\ref_and_out\ref_and_out.csproj", "{F111F804-76F4-4D26-8B43-A2AE37787C2D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "24 - Array and ArrayList", "24 - Array and ArrayList", "{837080C1-475A-4699-B729-25A15D760FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_and_arraylist", "OOPS_Concepts\24 - Array and ArrayList\array_and_arraylist\array_and_arraylist.csproj", "{3CC02929-29D4-4963-BFB4-7E3FA690496C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,10 @@ Global
 		{F111F804-76F4-4D26-8B43-A2AE37787C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F111F804-76F4-4D26-8B43-A2AE37787C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F111F804-76F4-4D26-8B43-A2AE37787C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC02929-29D4-4963-BFB4-7E3FA690496C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC02929-29D4-4963-BFB4-7E3FA690496C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC02929-29D4-4963-BFB4-7E3FA690496C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC02929-29D4-4963-BFB4-7E3FA690496C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -253,6 +261,8 @@ Global
 		{FCEDAC3C-98F5-49D3-9E31-E2F6ABB450C5} = {CAC86212-6594-4101-8FB2-4ACEBCCFC1B6}
 		{87E0CD68-200F-4FC9-98D9-F09EA6CBF39C} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{F111F804-76F4-4D26-8B43-A2AE37787C2D} = {87E0CD68-200F-4FC9-98D9-F09EA6CBF39C}
+		{837080C1-475A-4699-B729-25A15D760FE6} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{3CC02929-29D4-4963-BFB4-7E3FA690496C} = {837080C1-475A-4699-B729-25A15D760FE6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
