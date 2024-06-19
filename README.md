@@ -16,7 +16,7 @@ OOPS INTERVIEW QUESTIONS
 13. Explain the Managed and Unmanaged code in C#. <br />
 14. What is the difference between Constant and Readonly with examples? <br />
 15. What is the difference between Internal and Private? <br />
-16. Explain Delegates and its uses. <br />
+16. Explain Delegates and its uses. and its types? <br />
 17. Difference between List and Collections? <br />
 18. What is Dependency Injection, Explain it with Example. <br />
 19. What is the use of Partial Class? <br />
