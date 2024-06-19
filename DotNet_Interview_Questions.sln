@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11 - Inheritance", "11 - In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "OOPS_Concepts\11 - Inheritance\Inheritance\Inheritance.csproj", "{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12 - Struct VS Class", "12 - Struct VS Class", "{AEFF22EF-A1D1-43C0-882C-29302DD3E705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct_and_Class", "OOPS_Concepts\12 - Struct VS Class\Struct_and_Class\Struct_and_Class.csproj", "{CE589C5D-41DB-480A-9266-FD595DF12C3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE589C5D-41DB-480A-9266-FD595DF12C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -133,6 +141,8 @@ Global
 		{4A3395DB-C121-4517-B519-985108082495} = {BEC5FDD4-288D-4FD0-880B-10019E0BBC8B}
 		{7CDD54F0-86CE-432E-BB96-3509BF20AABF} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{B3C2779B-CF8D-42EB-93F6-9C6ED18E06EB} = {7CDD54F0-86CE-432E-BB96-3509BF20AABF}
+		{AEFF22EF-A1D1-43C0-882C-29302DD3E705} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{CE589C5D-41DB-480A-9266-FD595DF12C3B} = {AEFF22EF-A1D1-43C0-882C-29302DD3E705}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
