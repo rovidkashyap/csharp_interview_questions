@@ -115,6 +115,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "27 - Garbage Collection", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garbage_collection", "OOPS_Concepts\27 - Garbage Collection\garbage_collection\garbage_collection.csproj", "{7CA36392-CF92-4B67-9132-A09A18CB5363}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "28 - Access Specifiers", "28 - Access Specifiers", "{7F8387E2-C9A0-4BA9-9BF8-3B6C7C0EF03B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "access_specifiers", "OOPS_Concepts\28 - Access Specifiers\access_specifiers\access_specifiers.csproj", "{2485E581-1FA8-454F-B12D-8A15382002F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -233,6 +237,10 @@ Global
 		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CA36392-CF92-4B67-9132-A09A18CB5363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2485E581-1FA8-454F-B12D-8A15382002F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2485E581-1FA8-454F-B12D-8A15382002F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2485E581-1FA8-454F-B12D-8A15382002F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2485E581-1FA8-454F-B12D-8A15382002F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -293,6 +301,8 @@ Global
 		{F033DCC9-D027-4BB0-9C38-B17DF1439B05} = {B1025308-4DE5-4E20-A4B6-F3F142D01600}
 		{8DDFC703-3408-4FCF-BA05-56CE4FE771A7} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{7CA36392-CF92-4B67-9132-A09A18CB5363} = {8DDFC703-3408-4FCF-BA05-56CE4FE771A7}
+		{7F8387E2-C9A0-4BA9-9BF8-3B6C7C0EF03B} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{2485E581-1FA8-454F-B12D-8A15382002F3} = {7F8387E2-C9A0-4BA9-9BF8-3B6C7C0EF03B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
