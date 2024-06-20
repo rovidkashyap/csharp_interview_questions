@@ -167,6 +167,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40 -Static Class VS Singlet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static_class_vs_singleton_class", "OOPS_Concepts\40 -Static Class VS Singleton Class\static_class_vs_singleton_class\static_class_vs_singleton_class.csproj", "{DC58174F-90E4-4ACB-8C1A-2448CBC038D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "41 - Serialize Hashtable", "41 - Serialize Hashtable", "{18DA1CFB-61BA-4AFC-BA9A-29CD7A8EA96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serialize_hashtable", "OOPS_Concepts\41 - Serialize Hashtable\serialize_hashtable\serialize_hashtable.csproj", "{37D463A0-80A7-459F-95AE-50FBA0C61523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -337,6 +341,10 @@ Global
 		{DC58174F-90E4-4ACB-8C1A-2448CBC038D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC58174F-90E4-4ACB-8C1A-2448CBC038D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC58174F-90E4-4ACB-8C1A-2448CBC038D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D463A0-80A7-459F-95AE-50FBA0C61523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D463A0-80A7-459F-95AE-50FBA0C61523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D463A0-80A7-459F-95AE-50FBA0C61523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D463A0-80A7-459F-95AE-50FBA0C61523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -423,6 +431,8 @@ Global
 		{937D8056-D188-47AA-AB3F-359A70E3A581} = {A4284B78-4C3A-419A-9671-9E2F333B7DD0}
 		{4A9A014E-AF2B-4F8C-ABB4-B7AB9EEF4592} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{DC58174F-90E4-4ACB-8C1A-2448CBC038D1} = {4A9A014E-AF2B-4F8C-ABB4-B7AB9EEF4592}
+		{18DA1CFB-61BA-4AFC-BA9A-29CD7A8EA96D} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{37D463A0-80A7-459F-95AE-50FBA0C61523} = {18DA1CFB-61BA-4AFC-BA9A-29CD7A8EA96D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
