@@ -41,3 +41,13 @@ OOPS INTERVIEW QUESTIONS
 38. What are the Design Patterns in .Net? <br />
 39. What are types of Design Patterns? <br />
 40. What is the difference between Static Class and Singelton Class?< br />
+41. Can you Serialize Hashtable? <br />
+42. How to Catch Multiple Extensions at Once in C#? <br />
+43. What is the use of IDisposable Interface in C#? <br />
+44. What is the difference between An Error and an Exception? <br />
+45. What is a try/catch block? <br />
+46. What is finally block? <br />
+47. What are Pure Virtual Functions? <br />
+48. What is Constructor Chaining? <br />
+49. What are the Extension Methods in C#? <br />
+50. What is the difference between Early Binding and Late Binding in C#?
