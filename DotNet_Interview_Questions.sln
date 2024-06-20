@@ -187,6 +187,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "45 - Try And Catch Block", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_and_catch_block", "OOPS_Concepts\45 - Try And Catch Block\try_and_catch_block\try_and_catch_block.csproj", "{B960009A-2742-4A1B-B968-3683BCD70ED1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "46 - Finally Block", "46 - Finally Block", "{534835AE-4E77-4FC3-971B-BF911B244725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finally_block", "OOPS_Concepts\46 - Finally Block\finally_block\finally_block.csproj", "{03F440AF-1357-4B21-B358-FD926EAF8C5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +381,10 @@ Global
 		{B960009A-2742-4A1B-B968-3683BCD70ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B960009A-2742-4A1B-B968-3683BCD70ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B960009A-2742-4A1B-B968-3683BCD70ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -473,6 +481,8 @@ Global
 		{CE8C8D98-1FC5-48CC-B3BE-BF939198C9FB} = {3FA46490-BA20-45E4-9E12-E9B566B6464D}
 		{4181B9FC-1D2E-4F56-B3AE-5D7F13C3941E} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{B960009A-2742-4A1B-B968-3683BCD70ED1} = {4181B9FC-1D2E-4F56-B3AE-5D7F13C3941E}
+		{534835AE-4E77-4FC3-971B-BF911B244725} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{03F440AF-1357-4B21-B358-FD926EAF8C5F} = {534835AE-4E77-4FC3-971B-BF911B244725}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
