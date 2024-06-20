@@ -1,15 +1,15 @@
 # DotNet_Interview_Questions
 Here is the List of Interview Questions for the Dot Net Interview Series
 OOPS INTERVIEW QUESTIONS
-1. Explain the Features of OOPS with Real Time Examples? <br />
+1. Explain the Features of OOPS with Real Time Examples. <br />
 2. Difference between Interface and Abstraction? <br />
-3. Difference Between Abstract Class and Abstract Method? <br />
+3. What is the Difference Between Abstract Class and Abstract Method? <br />
 4. How to Achieve Abstraction? <br />
 5. Explain Polymorphism and its types. <br />
 6. What is Method Overloading and Overriding with example? <br />
 7. Define Constructors and their types. <br />
 8. Explain the difference between CallByValue() and CallByReference()? <br />
-9. What are the Virtual Functions and explain the difference between virtual, override, and new keyword? <br />
+9. What are the Virtual Functions and explain the difference between virtual, override, and new keywords? <br />
 10. Explain Exception Handling in C#. <br />
 11. Explain the types of Inheritance. <br />
 12. Difference between Struct and Classes? <br />
@@ -36,3 +36,8 @@ OOPS INTERVIEW QUESTIONS
 33. What is the use of the 'Yield' keyword in C#? <br />
 34. Is it possible to restrict object creation in C#? <br />
 35. Can you inherit Enum in C#? <br />
+36. Is it possible to achieve method extension using Interface? <br />
+37. Can the method return multiple values at a time? <br />
+38. What are the Design Patterns in .Net? <br />
+39. What are types of Design Patterns? <br />
+40. What is the difference between Static Class and Singelton Class?< br />
