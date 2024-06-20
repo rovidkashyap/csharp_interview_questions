@@ -50,4 +50,9 @@ OOPS INTERVIEW QUESTIONS
 47. What are Pure Virtual Functions? <br />
 48. What is Constructor Chaining? <br />
 49. What are the Extension Methods in C#? <br />
-50. What is the difference between Early Binding and Late Binding in C#?
+50. What is the difference between Early Binding and Late Binding in C#? <br />
+
+This is a List of Questions mostly asked during the interview of Dot Net Developer Profile.
+Subject to Copyright.
+
+By - Rovid Kashyap.
