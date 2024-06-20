@@ -151,6 +151,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "36 - Method Extension using
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method_extension_using_interface", "OOPS_Concepts\36 - Method Extension using Interface\method_extension_using_interface\method_extension_using_interface.csproj", "{0BFD57C4-DF74-48CA-9F34-89DF9AC4255B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "37 - Return Multiple Values from Method", "37 - Return Multiple Values from Method", "{41E66E04-44ED-4853-8469-92D64971969C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "return_multiple_value_from_method", "OOPS_Concepts\37 - Return Multiple Values from Method\return_multiple_value_from_method\return_multiple_value_from_method.csproj", "{362F935B-18D9-4F80-9F0D-B7E64B4728FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +309,10 @@ Global
 		{0BFD57C4-DF74-48CA-9F34-89DF9AC4255B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BFD57C4-DF74-48CA-9F34-89DF9AC4255B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BFD57C4-DF74-48CA-9F34-89DF9AC4255B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362F935B-18D9-4F80-9F0D-B7E64B4728FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362F935B-18D9-4F80-9F0D-B7E64B4728FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362F935B-18D9-4F80-9F0D-B7E64B4728FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362F935B-18D9-4F80-9F0D-B7E64B4728FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -383,6 +391,8 @@ Global
 		{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6} = {00F83926-8C3E-41ED-BD5B-608995339E53}
 		{1B8B06D0-842D-410E-9CB4-1392AC0661A7} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{0BFD57C4-DF74-48CA-9F34-89DF9AC4255B} = {1B8B06D0-842D-410E-9CB4-1392AC0661A7}
+		{41E66E04-44ED-4853-8469-92D64971969C} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{362F935B-18D9-4F80-9F0D-B7E64B4728FC} = {41E66E04-44ED-4853-8469-92D64971969C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
