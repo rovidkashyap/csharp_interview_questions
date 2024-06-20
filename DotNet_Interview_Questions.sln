@@ -143,6 +143,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "34 - Restrict Object Creati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restrict_object_creation", "OOPS_Concepts\34 - Restrict Object Creation\restrict_object_creation\restrict_object_creation.csproj", "{6E6191EF-7B32-4A5B-9D9F-F316D591B628}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "35 - Inherit Enum", "35 - Inherit Enum", "{00F83926-8C3E-41ED-BD5B-608995339E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inherit_enum", "OOPS_Concepts\35 - Inherit Enum\inherit_enum\inherit_enum.csproj", "{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +293,10 @@ Global
 		{6E6191EF-7B32-4A5B-9D9F-F316D591B628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E6191EF-7B32-4A5B-9D9F-F316D591B628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E6191EF-7B32-4A5B-9D9F-F316D591B628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -363,6 +371,8 @@ Global
 		{93F4EFF3-8AEF-486C-9C8D-6C1179FC99FC} = {6113E87C-97CB-401B-99DD-B06351AAC079}
 		{076E8243-0FCF-4599-90ED-706F265E79F5} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{6E6191EF-7B32-4A5B-9D9F-F316D591B628} = {076E8243-0FCF-4599-90ED-706F265E79F5}
+		{00F83926-8C3E-41ED-BD5B-608995339E53} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{B340F13B-5BD3-4CD1-A5FE-A4DF0834E5F6} = {00F83926-8C3E-41ED-BD5B-608995339E53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
