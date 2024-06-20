@@ -191,6 +191,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "46 - Finally Block", "46 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finally_block", "OOPS_Concepts\46 - Finally Block\finally_block\finally_block.csproj", "{03F440AF-1357-4B21-B358-FD926EAF8C5F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "47 - Pure Virtual Function", "47 - Pure Virtual Function", "{0439B79D-8ACA-4A0F-8834-677F9CDE35B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pure_virtual_function", "OOPS_Concepts\47 - Pure Virtual Function\pure_virtual_function\pure_virtual_function.csproj", "{D1B53A08-CC25-409A-BED1-E70F6A23995D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -385,6 +389,10 @@ Global
 		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03F440AF-1357-4B21-B358-FD926EAF8C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B53A08-CC25-409A-BED1-E70F6A23995D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B53A08-CC25-409A-BED1-E70F6A23995D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B53A08-CC25-409A-BED1-E70F6A23995D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B53A08-CC25-409A-BED1-E70F6A23995D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -483,6 +491,8 @@ Global
 		{B960009A-2742-4A1B-B968-3683BCD70ED1} = {4181B9FC-1D2E-4F56-B3AE-5D7F13C3941E}
 		{534835AE-4E77-4FC3-971B-BF911B244725} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{03F440AF-1357-4B21-B358-FD926EAF8C5F} = {534835AE-4E77-4FC3-971B-BF911B244725}
+		{0439B79D-8ACA-4A0F-8834-677F9CDE35B8} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{D1B53A08-CC25-409A-BED1-E70F6A23995D} = {0439B79D-8ACA-4A0F-8834-677F9CDE35B8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
