@@ -123,6 +123,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "29 - Abstraction and Encaps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction_and_encapsulation", "OOPS_Concepts\29 - Abstraction and Encapsulation\abstraction_and_encapsulation\abstraction_and_encapsulation.csproj", "{066F82D7-81D7-4578-ADD8-F644E3DFD8A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30 - Types of Classes", "30 - Types of Classes", "{F4BCCC0F-437B-4431-8632-85DEFC82FF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "types_of_classes", "OOPS_Concepts\30 - Types of Classes\types_of_classes\types_of_classes.csproj", "{018E978D-E628-4795-A827-75D58CEA3DB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +253,10 @@ Global
 		{066F82D7-81D7-4578-ADD8-F644E3DFD8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{066F82D7-81D7-4578-ADD8-F644E3DFD8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{066F82D7-81D7-4578-ADD8-F644E3DFD8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018E978D-E628-4795-A827-75D58CEA3DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018E978D-E628-4795-A827-75D58CEA3DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018E978D-E628-4795-A827-75D58CEA3DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018E978D-E628-4795-A827-75D58CEA3DB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -313,6 +321,8 @@ Global
 		{2485E581-1FA8-454F-B12D-8A15382002F3} = {7F8387E2-C9A0-4BA9-9BF8-3B6C7C0EF03B}
 		{86487364-AC6A-4B57-92EA-C76FB9B9B183} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{066F82D7-81D7-4578-ADD8-F644E3DFD8A6} = {86487364-AC6A-4B57-92EA-C76FB9B9B183}
+		{F4BCCC0F-437B-4431-8632-85DEFC82FF59} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{018E978D-E628-4795-A827-75D58CEA3DB7} = {F4BCCC0F-437B-4431-8632-85DEFC82FF59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
