@@ -175,6 +175,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "42 - Multiple Exception At 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple_exception_at_once", "OOPS_Concepts\42 - Multiple Exception At Once\multiple_exception_at_once\multiple_exception_at_once.csproj", "{17E7CF75-F7C6-4F47-BD30-8932DE65713A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "43 - IDisposable Interface", "43 - IDisposable Interface", "{150059ED-ED7F-4181-8910-33769A974D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable_Interface", "OOPS_Concepts\43 - IDisposable Interface\IDisposable_Interface\IDisposable_Interface.csproj", "{B3CB513B-8E97-4A93-A31D-4963AFBD0C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -353,6 +357,10 @@ Global
 		{17E7CF75-F7C6-4F47-BD30-8932DE65713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E7CF75-F7C6-4F47-BD30-8932DE65713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E7CF75-F7C6-4F47-BD30-8932DE65713A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CB513B-8E97-4A93-A31D-4963AFBD0C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CB513B-8E97-4A93-A31D-4963AFBD0C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CB513B-8E97-4A93-A31D-4963AFBD0C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CB513B-8E97-4A93-A31D-4963AFBD0C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -443,6 +451,8 @@ Global
 		{37D463A0-80A7-459F-95AE-50FBA0C61523} = {18DA1CFB-61BA-4AFC-BA9A-29CD7A8EA96D}
 		{F7192135-BC31-4A87-B2F7-0FC9B2748525} = {34498557-01F8-4121-913C-EA5A693D56EB}
 		{17E7CF75-F7C6-4F47-BD30-8932DE65713A} = {F7192135-BC31-4A87-B2F7-0FC9B2748525}
+		{150059ED-ED7F-4181-8910-33769A974D7D} = {34498557-01F8-4121-913C-EA5A693D56EB}
+		{B3CB513B-8E97-4A93-A31D-4963AFBD0C1E} = {150059ED-ED7F-4181-8910-33769A974D7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
