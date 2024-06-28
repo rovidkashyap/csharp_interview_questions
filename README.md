@@ -1,6 +1,5 @@
-# DotNet_Interview_Questions
-Here is the List of Interview Questions for the Dot Net Interview Series
-OOPS INTERVIEW QUESTIONS
+# OOPS Interview Questions
+
 1. Explain the Features of OOPS with Real Time Examples. <br />
 2. Difference between Interface and Abstraction? <br />
 3. What is the Difference Between Abstract Class and Abstract Method? <br />
@@ -36,7 +35,7 @@ OOPS INTERVIEW QUESTIONS
 33. What is the use of the 'Yield' keyword in C#? <br />
 34. Is it possible to restrict object creation in C#? <br />
 35. Can you inherit Enum in C#? <br />
-36. Is it possible to achieve method extension using Interface? <br />
+36. Is it possible to achieve method extension using an Interface? <br />
 37. Can the method return multiple values at a time? <br />
 38. What are the Design Patterns in .Net? <br />
 39. What are types of Design Patterns? <br />
@@ -51,6 +50,49 @@ OOPS INTERVIEW QUESTIONS
 48. What is Constructor Chaining? <br />
 49. What are the Extension Methods in C#? <br />
 50. What is the difference between Early Binding and Late Binding in C#? <br />
+
+# C# and LINQ Interview Questions
+
+1. What are the main features of C#? <br />
+2. Difference between `ValueType` and `ReferenceType`? <br />
+3. What is the `CLR` and what is it equivalent to? <br />
+4. What are the different types of `Loops` in C#? <br />
+5. Does C# Support `Multiple Inheritance`? <br />
+6. Explain the Concepts of `Delegates` in C#. <br />
+7. Can you Inherit a class into another class? <br />
+8. Can the `Override of function` be possible in the same class? <br />
+9. Can you tell if the `Private Virtual Method` can be overridden? <br />
+10. Can you use the `this` command within a static method? <br />
+11. Explain the use of `async` and `await` Keywords. <br />
+12. Difference between `throw` and `throw ex`? <br />
+13. What is the `Nullable` type in c#? <br />
+14. What are `Boxing` and `Unboxing` in C#? <br />
+15. What is `Thread` in c#? How do you create and manage Thread? <br />
+16. What are Tasks in C#? <br />
+17. Difference between `Object Type` Variables and `Dynamic Type` Variables? <br />
+18. In how many ways you can pass parameters to the method in C#? <br />
+19. Name all data types present in c#. <br />
+20. Define `Local Variables`. <br />
+21. Difference between `Task` and `Thread` in C#? <br />
+22. What are the different types of LINQ? <br />
+23. Explain How LINQ is more useful than a Stored Procedure. <br />
+24. What are the `Where` clause and `Let` Clause? <br />
+25. Difference between `IEnumerable` and `IQueryable` in C#? <br />
+26. Difference between `Select` and `SelectMany` in LINQ? <br />
+27. Difference between `Deferred Execution` and `Immediate Execution` in LINQ? <br />
+28. How do you handle Exception in LINQ? <br />
+29. What is PLINQ? <br />
+30. Explain How to Optimize LINQ Queries for performance. <br />
+31. How does LINQ Support Querying XML Documents? <br />
+32. WHat is the `ThenBy` Clause in LINQ? <br />
+33. Difference between `First()` and `FirstOrDefault()` in LINQ? <br />
+34. Difference between `continue` and `break` in C#? <br />
+35. Difference between `var` and `dynamic` in C#? <br />
+36. Different types of `Access Modifiers` in C#? <br />
+37. What are `Indexers` in C# and When will they are useful in c#? <br />
+38. Difference between `Indexer` and `Dictionary` in c#? <br />
+39. Difference between `Implicit` and `Explicit` type conversion in c#? <br />
+40. How to use `Reflection` in C#?
 
 This is a List of Questions mostly asked during the interview of Dot Net Developer Profile.
 Subject to Copyright.
