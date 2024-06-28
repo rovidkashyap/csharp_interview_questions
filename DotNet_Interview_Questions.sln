@@ -229,6 +229,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Multiple Inheritance", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple_inhertiance", "C# and LINQ Concepts\5 - Multiple Inheritance\multiple_inhertiance\multiple_inhertiance.csproj", "{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Inherit Classes", "6 - Inherit Classes", "{14261AD1-77EA-40E2-B09B-77D3AAD8E60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inherit_classes", "C# and LINQ Concepts\6 - Inherit Classes\inherit_classes\inherit_classes.csproj", "{AB03FAE9-11D2-4617-A7B2-F534D6B11619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +463,10 @@ Global
 		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB03FAE9-11D2-4617-A7B2-F534D6B11619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB03FAE9-11D2-4617-A7B2-F534D6B11619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB03FAE9-11D2-4617-A7B2-F534D6B11619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB03FAE9-11D2-4617-A7B2-F534D6B11619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -575,6 +583,8 @@ Global
 		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE} = {8C960636-D80F-44B3-8CB9-DC8D80DF0034}
 		{1908AC0B-3BFB-4028-81AF-B3BF2641ECBA} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218} = {1908AC0B-3BFB-4028-81AF-B3BF2641ECBA}
+		{14261AD1-77EA-40E2-B09B-77D3AAD8E60E} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{AB03FAE9-11D2-4617-A7B2-F534D6B11619} = {14261AD1-77EA-40E2-B09B-77D3AAD8E60E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
