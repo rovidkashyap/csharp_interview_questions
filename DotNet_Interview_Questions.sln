@@ -221,6 +221,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - CLR in C#", "3 - CLR in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clr_in_c#", "C# and LINQ Concepts\3 - CLR in C#\clr_in_c#\clr_in_c#.csproj", "{92713F65-EBDD-4345-BC17-AD69C66610CA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Loops in C#", "4 - Loops in C#", "{8C960636-D80F-44B3-8CB9-DC8D80DF0034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops_in_csharp", "C# and LINQ Concepts\4 - Loops in C#\loops_in_csharp\loops_in_csharp.csproj", "{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -443,6 +447,10 @@ Global
 		{92713F65-EBDD-4345-BC17-AD69C66610CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92713F65-EBDD-4345-BC17-AD69C66610CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92713F65-EBDD-4345-BC17-AD69C66610CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -555,6 +563,8 @@ Global
 		{B8F66734-19EE-44B4-B913-FB61D37FB14E} = {5F383495-84D1-47FF-80B9-446A3D88D431}
 		{723E1624-F9F1-4C0C-89AD-0BE944BA8A09} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{92713F65-EBDD-4345-BC17-AD69C66610CA} = {723E1624-F9F1-4C0C-89AD-0BE944BA8A09}
+		{8C960636-D80F-44B3-8CB9-DC8D80DF0034} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE} = {8C960636-D80F-44B3-8CB9-DC8D80DF0034}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
