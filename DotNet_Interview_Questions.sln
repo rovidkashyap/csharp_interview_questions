@@ -225,6 +225,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Loops in C#", "4 - Loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops_in_csharp", "C# and LINQ Concepts\4 - Loops in C#\loops_in_csharp\loops_in_csharp.csproj", "{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Multiple Inheritance", "5 - Multiple Inheritance", "{1908AC0B-3BFB-4028-81AF-B3BF2641ECBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple_inhertiance", "C# and LINQ Concepts\5 - Multiple Inheritance\multiple_inhertiance\multiple_inhertiance.csproj", "{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -451,6 +455,10 @@ Global
 		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -565,6 +573,8 @@ Global
 		{92713F65-EBDD-4345-BC17-AD69C66610CA} = {723E1624-F9F1-4C0C-89AD-0BE944BA8A09}
 		{8C960636-D80F-44B3-8CB9-DC8D80DF0034} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{251B3DBD-9F0D-46F7-81F4-8910D00FDACE} = {8C960636-D80F-44B3-8CB9-DC8D80DF0034}
+		{1908AC0B-3BFB-4028-81AF-B3BF2641ECBA} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{B413B4A8-B5D1-47FF-A65F-0AD35AEF8218} = {1908AC0B-3BFB-4028-81AF-B3BF2641ECBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
