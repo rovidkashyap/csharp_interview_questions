@@ -241,6 +241,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Override Private Virtua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "override_private_virtual_method", "C# and LINQ Concepts\8 - Override Private Virtual Method\override_private_virtual_method\override_private_virtual_method.csproj", "{44D18C91-361F-4D33-867F-0F2E8FBC9820}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 - This in Static Method", "9 - This in Static Method", "{B282A93C-4252-4AE0-A2F4-42E61F09BFB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "this_in_static_method", "C# and LINQ Concepts\9 - This in Static Method\this_in_static_method\this_in_static_method.csproj", "{B65C2563-F263-414B-9833-024595F78E6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +487,10 @@ Global
 		{44D18C91-361F-4D33-867F-0F2E8FBC9820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D18C91-361F-4D33-867F-0F2E8FBC9820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D18C91-361F-4D33-867F-0F2E8FBC9820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65C2563-F263-414B-9833-024595F78E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65C2563-F263-414B-9833-024595F78E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65C2563-F263-414B-9833-024595F78E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65C2563-F263-414B-9833-024595F78E6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -605,6 +613,8 @@ Global
 		{9F0CB68A-7098-4570-A429-74392608F6BA} = {7D73EE9B-6250-4032-A0B6-0DD38AA6ECF0}
 		{4C6CF1EE-E04E-4761-91B9-B2D3EF08C987} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{44D18C91-361F-4D33-867F-0F2E8FBC9820} = {4C6CF1EE-E04E-4761-91B9-B2D3EF08C987}
+		{B282A93C-4252-4AE0-A2F4-42E61F09BFB1} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{B65C2563-F263-414B-9833-024595F78E6F} = {B282A93C-4252-4AE0-A2F4-42E61F09BFB1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
