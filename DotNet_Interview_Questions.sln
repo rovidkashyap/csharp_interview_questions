@@ -265,6 +265,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14 - Thread in C#", "14 - T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread_in_csharp", "C# and LINQ Concepts\14 - Thread in C#\thread_in_csharp\thread_in_csharp.csproj", "{D656F5C1-7D04-49FA-97DF-1E759B330CFC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15 - Tasks in C#", "15 - Tasks in C#", "{0F92A246-39E4-4B1F-82FB-A0A5C01302AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tasks_in_csharp", "C# and LINQ Concepts\15 - Tasks in C#\tasks_in_csharp\tasks_in_csharp.csproj", "{09B0D1CC-C945-40B4-81F5-2B6CD25EF23F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +535,10 @@ Global
 		{D656F5C1-7D04-49FA-97DF-1E759B330CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D656F5C1-7D04-49FA-97DF-1E759B330CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D656F5C1-7D04-49FA-97DF-1E759B330CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B0D1CC-C945-40B4-81F5-2B6CD25EF23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B0D1CC-C945-40B4-81F5-2B6CD25EF23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B0D1CC-C945-40B4-81F5-2B6CD25EF23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B0D1CC-C945-40B4-81F5-2B6CD25EF23F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -665,6 +673,8 @@ Global
 		{2C42B63F-8049-4675-B8CA-0CFB70C0ADB9} = {9774A3D8-9FC6-4A9D-8232-CAA106E4581D}
 		{F649E608-2361-4E92-8D38-20D64D1D5A75} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{D656F5C1-7D04-49FA-97DF-1E759B330CFC} = {F649E608-2361-4E92-8D38-20D64D1D5A75}
+		{0F92A246-39E4-4B1F-82FB-A0A5C01302AE} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{09B0D1CC-C945-40B4-81F5-2B6CD25EF23F} = {0F92A246-39E4-4B1F-82FB-A0A5C01302AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
