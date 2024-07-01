@@ -83,7 +83,7 @@
 28. What is PLINQ? <br />
 29. Explain How to Optimize LINQ Queries for performance. <br />
 30. How does LINQ Support Querying XML Documents? <br />
-31. WHat is the `ThenBy` Clause in LINQ? <br />
+31. What is the `ThenBy` Clause in LINQ? <br />
 32. Difference between `First()` and `FirstOrDefault()` in LINQ? <br />
 33. Difference between `continue` and `break` in C#? <br />
 34. Difference between `var` and `dynamic` in C#? <br />
