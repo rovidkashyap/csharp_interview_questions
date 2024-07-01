@@ -87,11 +87,10 @@
 32. Difference between `First()` and `FirstOrDefault()` in LINQ? <br />
 33. Difference between `continue` and `break` in C#? <br />
 34. Difference between `var` and `dynamic` in C#? <br />
-35. Different types of `Access Modifiers` in C#? <br />
-36. What are `Indexers` in C# and When will they are useful in c#? <br />
-37. Difference between `Indexer` and `Dictionary` in c#? <br />
-38. Difference between `Implicit` and `Explicit` type conversion in c#? <br />
-39. How to use `Reflection` in C#?
+35. What are `Indexers` in C# and When will they are useful in c#? <br />
+36. Difference between `Indexer` and `Dictionary` in c#? <br />
+37. Difference between `Implicit` and `Explicit` type conversion in c#? <br />
+38. How to use `Reflection` in C#?
 
 This is a List of Questions mostly asked during the interview of Dot Net Developer Profile.
 Subject to Copyright.
