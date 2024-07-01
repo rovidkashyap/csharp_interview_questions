@@ -341,6 +341,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "33 - Continue vs Break in C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "continue_vs_break_in_linq", "C# and LINQ Concepts\33 - Continue vs Break in C#\continue_vs_break_in_linq\continue_vs_break_in_linq.csproj", "{0C6B9AEB-0063-47A8-A53E-91CBB822C960}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "34 - Var vs Dynamic in C#", "34 - Var vs Dynamic in C#", "{756047A6-5C81-4C6A-A2D7-DA1D0D6F609C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var_vs_dynamic_in_csharp", "C# and LINQ Concepts\34 - Var vs Dynamic in C#\var_vs_dynamic_in_csharp\var_vs_dynamic_in_csharp.csproj", "{0878B500-263D-440B-89CF-7E6AD856C7B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -683,6 +687,10 @@ Global
 		{0C6B9AEB-0063-47A8-A53E-91CBB822C960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C6B9AEB-0063-47A8-A53E-91CBB822C960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C6B9AEB-0063-47A8-A53E-91CBB822C960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0878B500-263D-440B-89CF-7E6AD856C7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0878B500-263D-440B-89CF-7E6AD856C7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0878B500-263D-440B-89CF-7E6AD856C7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0878B500-263D-440B-89CF-7E6AD856C7B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -855,6 +863,8 @@ Global
 		{8DD265E9-380E-4137-BA3F-40714EEAB2C3} = {7A633065-6398-40BF-ABB1-20E8416AF4BE}
 		{D7DE94ED-0BEB-4512-8C04-68939C795DB7} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{0C6B9AEB-0063-47A8-A53E-91CBB822C960} = {D7DE94ED-0BEB-4512-8C04-68939C795DB7}
+		{756047A6-5C81-4C6A-A2D7-DA1D0D6F609C} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{0878B500-263D-440B-89CF-7E6AD856C7B9} = {756047A6-5C81-4C6A-A2D7-DA1D0D6F609C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
