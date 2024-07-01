@@ -305,6 +305,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "24 - IEnumerable vs IQuerya
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ienumerable_vs_iqueryable", "C# and LINQ Concepts\24 - IEnumerable vs IQueryable\ienumerable_vs_iqueryable\ienumerable_vs_iqueryable.csproj", "{6C09A570-372A-42FD-8C3C-EEC1BC2DEE7F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "25 - Select vs SelectMany", "25 - Select vs SelectMany", "{FE337A02-CD05-4A0A-9DF8-4E4725B316A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "select_vs_selectmany", "C# and LINQ Concepts\25 - Select vs SelectMany\select_vs_selectmany\select_vs_selectmany.csproj", "{09C5B6BF-1E84-4115-9D5A-38FE98D08BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -611,6 +615,10 @@ Global
 		{6C09A570-372A-42FD-8C3C-EEC1BC2DEE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C09A570-372A-42FD-8C3C-EEC1BC2DEE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C09A570-372A-42FD-8C3C-EEC1BC2DEE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C5B6BF-1E84-4115-9D5A-38FE98D08BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C5B6BF-1E84-4115-9D5A-38FE98D08BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C5B6BF-1E84-4115-9D5A-38FE98D08BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C5B6BF-1E84-4115-9D5A-38FE98D08BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -765,6 +773,8 @@ Global
 		{58B7B86D-30AE-475B-8C5D-D7390C368D9E} = {5FC10363-BC30-4F64-AF10-0375FC198F5F}
 		{80E24E1C-63F8-4663-B304-41F1E5992996} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{6C09A570-372A-42FD-8C3C-EEC1BC2DEE7F} = {80E24E1C-63F8-4663-B304-41F1E5992996}
+		{FE337A02-CD05-4A0A-9DF8-4E4725B316A5} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{09C5B6BF-1E84-4115-9D5A-38FE98D08BB0} = {FE337A02-CD05-4A0A-9DF8-4E4725B316A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
