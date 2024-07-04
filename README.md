@@ -98,7 +98,7 @@
 43. Difference between `Concat` and `Union` in LINQ? <br />
 44. Difference between `ToList()` and `ToArray()` in LINQ? <br />
 45. What are the main components of LINQ? <br />
-46. What is Anonymous Function in LINQ? < br />
+46. What is Anonymous Function in LINQ? <br />
 
 This is a List of Questions mostly asked during the interview of Dot Net Developer Profile.
 Subject to Copyright.
