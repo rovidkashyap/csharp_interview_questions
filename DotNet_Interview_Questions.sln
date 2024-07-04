@@ -389,6 +389,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "45 - LINQ Components", "45 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq_components", "C# and LINQ Concepts\45 - LINQ Components\linq_components\linq_components.csproj", "{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "46 - Anonymous Function in LINQ", "46 - Anonymous Function in LINQ", "{4C53BBF5-B4A8-49A1-8941-0B154675355A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anonymous_function", "C# and LINQ Concepts\46 - Anonymous Function in LINQ\anonymous_function\anonymous_function.csproj", "{77FCF75A-362B-4514-9C50-7FF781C9ED8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -779,6 +783,10 @@ Global
 		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FCF75A-362B-4514-9C50-7FF781C9ED8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FCF75A-362B-4514-9C50-7FF781C9ED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FCF75A-362B-4514-9C50-7FF781C9ED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FCF75A-362B-4514-9C50-7FF781C9ED8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -975,6 +983,8 @@ Global
 		{680DFFD9-BBF5-42F7-8920-69368F4ED366} = {D1CCD58D-6B88-43B4-81F2-605CBF7222F2}
 		{7A473F68-D3B7-4FDA-87C2-5F195F80889F} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789} = {7A473F68-D3B7-4FDA-87C2-5F195F80889F}
+		{4C53BBF5-B4A8-49A1-8941-0B154675355A} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{77FCF75A-362B-4514-9C50-7FF781C9ED8E} = {4C53BBF5-B4A8-49A1-8941-0B154675355A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
