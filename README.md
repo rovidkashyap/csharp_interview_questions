@@ -93,7 +93,7 @@
 38. How to use `Reflection` in C#? <br />
 39. Difference between `Last()` and `LastOrDefault()` in LINQ? <br />
 40. Difference between `Single()` and `SingleOrDefault()` in LINQ? <br />
-41. Difference between `Task()` and `TakeWhile()` in LINQ? < br/>
+41. Difference between `Take()` and `TakeWhile()` in LINQ? < br/>
 42. Difference between `Skip()` and `SkipWhile()` in LINQ? <br />
 43. Difference between `Concat` and `Union` in LINQ? <br />
 44. Difference between `ToList()` and `ToArray()` in LINQ? <br />
