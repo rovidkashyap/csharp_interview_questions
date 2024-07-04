@@ -385,6 +385,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "44 - ToList and ToArray in 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tolist_vs_toarray", "C# and LINQ Concepts\44 - ToList and ToArray in LINQ\tolist_vs_toarray\tolist_vs_toarray.csproj", "{680DFFD9-BBF5-42F7-8920-69368F4ED366}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "45 - LINQ Components", "45 - LINQ Components", "{7A473F68-D3B7-4FDA-87C2-5F195F80889F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq_components", "C# and LINQ Concepts\45 - LINQ Components\linq_components\linq_components.csproj", "{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -771,6 +775,10 @@ Global
 		{680DFFD9-BBF5-42F7-8920-69368F4ED366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{680DFFD9-BBF5-42F7-8920-69368F4ED366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{680DFFD9-BBF5-42F7-8920-69368F4ED366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -965,6 +973,8 @@ Global
 		{416A8C75-6C5F-42BC-BAAF-0D8CD7BF8311} = {B20AAB00-0FDF-4EDA-B878-003FABCC02FE}
 		{D1CCD58D-6B88-43B4-81F2-605CBF7222F2} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{680DFFD9-BBF5-42F7-8920-69368F4ED366} = {D1CCD58D-6B88-43B4-81F2-605CBF7222F2}
+		{7A473F68-D3B7-4FDA-87C2-5F195F80889F} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{B54CA9C6-31FB-423F-A0FB-C052EB4C0789} = {7A473F68-D3B7-4FDA-87C2-5F195F80889F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
