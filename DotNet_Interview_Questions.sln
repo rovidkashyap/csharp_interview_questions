@@ -365,6 +365,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "39 - Last and LastOrDefault
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "last_vs_lastordefault", "C# and LINQ Concepts\39 - Last and LastOrDefault in LINQ\last_vs_lastordefault\last_vs_lastordefault.csproj", "{C5739D8A-78AB-4054-99B5-AF28391EB9A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40 - Single and SingleOrDefault in LINQ", "40 - Single and SingleOrDefault in LINQ", "{513E1774-833B-49D3-AD0F-B3D9F4AE76E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "single_vs_singleordefault", "C# and LINQ Concepts\40 - Single and SingleOrDefault in LINQ\single_vs_singleordefault\single_vs_singleordefault.csproj", "{ED4D1595-49A4-46C2-9756-E104D18B3D4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -731,6 +735,10 @@ Global
 		{C5739D8A-78AB-4054-99B5-AF28391EB9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5739D8A-78AB-4054-99B5-AF28391EB9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5739D8A-78AB-4054-99B5-AF28391EB9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -915,6 +923,8 @@ Global
 		{E9FA0040-1902-4A74-B5A3-8094A19B0B4A} = {9927A846-582E-4095-BE27-AD694810803E}
 		{03D4BDA8-CDB5-4AB1-ADB7-4BC406EA4D66} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{C5739D8A-78AB-4054-99B5-AF28391EB9A3} = {03D4BDA8-CDB5-4AB1-ADB7-4BC406EA4D66}
+		{513E1774-833B-49D3-AD0F-B3D9F4AE76E3} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{ED4D1595-49A4-46C2-9756-E104D18B3D4E} = {513E1774-833B-49D3-AD0F-B3D9F4AE76E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
