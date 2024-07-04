@@ -369,6 +369,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40 - Single and SingleOrDef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "single_vs_singleordefault", "C# and LINQ Concepts\40 - Single and SingleOrDefault in LINQ\single_vs_singleordefault\single_vs_singleordefault.csproj", "{ED4D1595-49A4-46C2-9756-E104D18B3D4E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "41 - Take and TakeWhile in LINQ", "41 - Take and TakeWhile in LINQ", "{FA5731B3-8608-4F2B-9ECC-9B56E029AFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "take_vs_takewhile", "C# and LINQ Concepts\41 - Take and TakeWhile in LINQ\take_vs_takewhile\take_vs_takewhile.csproj", "{6CA44E9B-245F-413F-8A94-42EC9D2B0C4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -739,6 +743,10 @@ Global
 		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4D1595-49A4-46C2-9756-E104D18B3D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA44E9B-245F-413F-8A94-42EC9D2B0C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA44E9B-245F-413F-8A94-42EC9D2B0C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA44E9B-245F-413F-8A94-42EC9D2B0C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA44E9B-245F-413F-8A94-42EC9D2B0C4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -925,6 +933,8 @@ Global
 		{C5739D8A-78AB-4054-99B5-AF28391EB9A3} = {03D4BDA8-CDB5-4AB1-ADB7-4BC406EA4D66}
 		{513E1774-833B-49D3-AD0F-B3D9F4AE76E3} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
 		{ED4D1595-49A4-46C2-9756-E104D18B3D4E} = {513E1774-833B-49D3-AD0F-B3D9F4AE76E3}
+		{FA5731B3-8608-4F2B-9ECC-9B56E029AFA0} = {CCA36A1E-AD6B-4A4B-983A-1E3806233805}
+		{6CA44E9B-245F-413F-8A94-42EC9D2B0C4C} = {FA5731B3-8608-4F2B-9ECC-9B56E029AFA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4E1932E-6ECB-4F0B-8DDB-0B233B0277CF}
